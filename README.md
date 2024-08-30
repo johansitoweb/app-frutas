@@ -1,2 +1,3 @@
 # app-frutas
-![image](https://github.com/user-attachments/assets/6c44f471-a13c-417c-b715-45c9cd241f08)
+![image](https://github.com/user-attachments/assets/921c6508-c297-4668-81a1-b26bcb74d079)
+
